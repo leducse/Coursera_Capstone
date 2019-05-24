@@ -1,5 +1,14 @@
-The demographics of Washington DC have changed dramatically over the past 40 years. 
-I would like to explore how the demographics have changed over the past few deccades. 
-I would then like to explore the relationship between neighborhood demographic information 
-and the type of venues/restaurants in the area. Finally, I would like to try and determine what
-the demographics of the city will look like 10 years from now.
+Business Problem Intro
+
+The demographics of Washington DC have changed dramatically over the past 40 years. I would like to explore how the demographics have changed over the past few decades and try to determine what the city will look like in the few decades. I will then take a closer look at some economic wellbeing indicators by neighborhood for more recent years, to help determine the best area of town to live in. This data would be useful to political campaigns, people trying to determine where to open a business, potential home buyers, real-estate investors, and city planners.
+
+Data
+
+The primary dataset I will use will be from http://data.codefordc.org containing demographic information by neighborhood from 1980 to 2010. A few of the metrics I will use to perform this analysis include: 
+
+Population growth by neighborhood - which neighborhoods are growing the fastest? 
+Ratio of male to female by neighborhood
+Ethnicity demographic changes by neighborhood  
+Employment rate by neighborhood population
+Average family income
+
